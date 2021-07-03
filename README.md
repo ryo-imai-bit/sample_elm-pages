@@ -9,6 +9,10 @@ The entrypoint file is `index.js`. That file imports `src/Main.elm`. The `conten
 ## Setup Instructions
 Click "Use this template" on this Github page to fork the repo.
 
+### Requirement
+node v10.24.1
+npm 6.14.12
+
 Or git clone it:
 
 ```
