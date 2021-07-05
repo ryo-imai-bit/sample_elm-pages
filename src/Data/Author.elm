@@ -21,6 +21,10 @@ all =
       , avatar = Pages.images.author.dillon
       , bio = "Elm developer and educator. Founder of Incremental Elm Consulting."
       }
+      ,{ name = "Ryo Imai"
+      , avatar = Pages.images.author.sonic
+      , bio = "sonic"
+      }
     ]
 
 
